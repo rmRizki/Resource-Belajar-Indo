@@ -68,6 +68,8 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 
 ### UI/UX Design
 
+- [Belajar UI/UX | Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+
 ### Game
 
 ### 3D Modelling
