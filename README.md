@@ -42,6 +42,8 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 
 - [Dasar Pemrograman Golang | Noval Agung](https://dasarpemrogramangolang.novalagung.com/)
 
+- [Artikel-artikel tentang dasar-dasar pemrograman maupun tingkat lanjut dan teknologi | Petani Kode](https://www.petanikode.com/)
+
 ### Web
 
 - [Jalur Belajar Front End Web Development | Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg/playlists?view=50&sort=dd&shelf_id=8)
