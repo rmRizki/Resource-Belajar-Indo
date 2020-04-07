@@ -42,7 +42,7 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 
 - [Dasar Pemrograman Golang - Noval Agung](https://dasarpemrogramangolang.novalagung.com/)
 
-- [Artikel-artikel tentang dasar-dasar pemrograman maupun tingkat lanjut dan teknologi - Petani Kode](https://www.petanikode.com/)
+- [Belajar PHP, Java, Python, Javascript, C, C++, C#, .Net dan Node.Js - Petani Kode](https://www.petanikode.com/tutorial/)
 
 ### Web
 
@@ -57,6 +57,12 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 ### Android
 
 ### Flutter
+
+### Git dan Github
+
+- [Belajar Git - Petani Kode](https://www.petanikode.com/tutorial/git/)
+
+- [Belajar Git dan Github - Web Programming UNPAS](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)  
 
 ### Data Science
 
