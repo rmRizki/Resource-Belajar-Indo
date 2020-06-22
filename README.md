@@ -51,6 +51,8 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 
 - [Tutorial REST API - Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIW7AsIbnhFg15t9yx4H-sQ0)
 
+- [Belajar REST API (konsep) - Programmer Zaman Now](https://www.youtube.com/playlist?list=PL-CtdCApEFH-g0XS7fraWEZ28M8DiykC4)
+
 - [Membuat Website Sederhana Menggunakan CODEIGNITER - Web Programming UNPAS](https://www.youtube.com/watch?v=dMRCZGGAx74&list=PLFIM0718LjIVdFn6LHoD5gJ8UjvI1Baqp)  
 
 <!-- - []() -->
