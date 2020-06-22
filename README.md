@@ -59,6 +59,8 @@ Berikut adalah daftar beberapa sumber tutorial dan materi berbahasa indonesia ya
 
 ### React-Native
 
+- [Belajar dasar React-Native - prawito hudoro](https://www.youtube.com/watch?v=bSLGgJC0C9k&list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV)
+
 - [Membuat aplikasi Gojek dengan React-Native - prawito hudoro](https://www.youtube.com/watch?v=G3m98l8FeZw&list=PLU4DS8KR-LJ2i_jwMVrqMoG1Hb4G3u5pu)
 
 ### Flutter
